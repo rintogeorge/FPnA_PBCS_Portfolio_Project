@@ -300,7 +300,7 @@
 
 ###### **## 🔗 Dashboard Links**
 
-**- \*\*Tableau Public Dashboard: \*(https://public.tableau.com/views/portfolio\_17667322225440/ExecutiveSummary?:language=en-US\&:sid=\&:redirect=auth\&:display\_count=n\&:origin=viz\_share\_link)\***
+**- \*\*Tableau Public Dashboard: https://public.tableau.com/views/portfolio_17667322225440/ExecutiveSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 
@@ -337,6 +337,7 @@
 **## 📬 Contact**
 
 **Feel free to connect with me on LinkedIn for discussions on \*Oracle EPM, FP\&A, and Analytics\*.**
+
 
 
 
